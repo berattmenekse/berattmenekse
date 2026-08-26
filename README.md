@@ -41,8 +41,8 @@ daha az güvenilir gösterir.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=berattmenekse&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berattmenekse&layout=compact" />
+  <img height="165" src="https://github-readme-stats-sigma-black.vercel.app/api?username=berattmenekse&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=berattmenekse&layout=compact" />
 </p>
 
 ---
