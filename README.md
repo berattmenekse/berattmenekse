@@ -35,6 +35,7 @@ I'm a **Computer Engineering student** who learns by building. I'm interested in
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="" /><br /><sub><b>C++</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="" /><br /><sub><b>HTML</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="" /><br /><sub><b>CSS</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="" /><br /><sub><b>PowerShell</b></sub></td>
   </tr>
 </table>
 
@@ -43,8 +44,7 @@ I'm a **Computer Engineering student** who learns by building. I'm interested in
 <table>
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tauri" width="48" height="48" alt="" /><br /><sub><b>Tauri</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="" /><br /><sub><b>Git</b></sub></td>
-  </tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="" /><br /><sub><b>Git</b></sub></td>  </tr>
 </table>
 
 ## 📊 GitHub Analytics
@@ -52,7 +52,7 @@ I'm a **Computer Engineering student** who learns by building. I'm interested in
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/languages-light.svg" />
-  <img src="assets/languages-dark.svg" width="100%" alt="Languages in my repositories: JavaScript 48.2%, Rust 38.5%, CSS 7.7%, HTML 5.6%" />
+  <img src="assets/languages-dark.svg" width="100%" alt="Languages in my repositories: JavaScript 35.7%, Rust 28.5%, Python 22.2%, CSS 5.7%, HTML 4.2%, PowerShell 2.4%, C++ 1.2%, Other 0.1%" />
 </picture>
 
 <p align="center">
