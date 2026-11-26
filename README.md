@@ -44,7 +44,8 @@ I'm a **Computer Engineering student** who learns by building. I'm interested in
 <table>
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tauri" width="48" height="48" alt="" /><br /><sub><b>Tauri</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="" /><br /><sub><b>Git</b></sub></td>  </tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="" /><br /><sub><b>Git</b></sub></td>
+  </tr>
 </table>
 
 ## 📊 GitHub Analytics
